@@ -13,7 +13,6 @@ Search only for the term cricket
 
 ---
 
----
 <h3>Features:<h3/>
   <ol>
     <li>Search news</li>
