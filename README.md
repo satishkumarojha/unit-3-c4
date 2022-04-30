@@ -18,10 +18,9 @@ Search only for the term cricket
   <ol>
     <li>Search news</li>
     <li>Trending sports news</li>
-   li>
     
   </ol>
 
 ### Netlify Link
 
-https://sage-dolphin-365e39.netlify.app
+http://unit-3-c4.vercel.app/
